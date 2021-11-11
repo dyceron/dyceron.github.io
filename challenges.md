@@ -21,6 +21,16 @@ Here is a list of the challenge runs that I have completed or are in progress. T
 - **Max% No Plasma Beam**: *[Work in Progress](https://www.youtube.com/playlist?list=PLCCGt8Wxb02Fdh-r7Jb94wIpyaExALWHW)*
 
 ### Metroid Prime 2: Echoes
+- **Max% No Light Beam (98%)**: [November 8, 2015](https://www.youtube.com/playlist?list=PLCCGt8Wxb02FcrpbNv2gJri4k4OXI5sEU)
+- **6%**: [April 13, 2016](https://www.youtube.com/playlist?list=PLCCGt8Wxb02HJOCr0Z4ndVUwZULktbAQz)
+- **6% (Hard)**: [April 24, 2016](https://www.youtube.com/playlist?list=PLCCGt8Wxb02HCnBGACK1Iqz86bhCDpcDQ)
+- **6% Single Segment**: [April 24, 2016](https://www.youtube.com/watch?v=82irI-g9bPQ)
+- **Max% No Light Beam (99%)**: [October 23, 2016](https://www.youtube.com/playlist?list=PLCCGt8Wxb02FqJavGSbXJXb0mP7LfTFTi)
+- **Max% No Space Jump (98%)**: [October 1, 2018](https://www.youtube.com/playlist?list=PLCCGt8Wxb02G6HWUpVBnpIU5miJFc2qqI)
+- **Max% No Bombs (97%)**: [April 5, 2020](https://www.youtube.com/playlist?list=PLCCGt8Wxb02HPdyrpezP-VA3bvS3kFThf)
+- **Max% No Bosses (84%)**: [October 20, 2020](https://www.youtube.com/playlist?list=PLCCGt8Wxb02G9WGEyUXFlwVjW7orCMlyo)
+- **Max% No Dark Beam**: *[Work in Progress](https://www.youtube.com/playlist?list=PLCCGt8Wxb02GPOjYLb9U0cAjmyPTJLZV7)*
+- **Max% No Dark World**: *[Work in Progress](https://www.youtube.com/playlist?list=PLCCGt8Wxb02Eb5DGWSuGkVzMFutQ4UXzg)*
 
 ### Metroid Prime 3: Corruption
 
