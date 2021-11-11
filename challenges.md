@@ -1,6 +1,6 @@
 # Challenges
 
-Here is a list of the challenge runs that I have completed or are in progress, listed alphabetically by game in order of completion from earliest to latest. The dates listed are the dates the challenges were completed.
+Here is a list of all the challenge runs that I have completed or are in progress. They are listed alphabetically by game in order of completion from earliest to latest. The dates listed are the dates the challenges were completed.
 
 ### Another Metroid 2 Remake
 - **6% Normal**: [January 23, 2017](https://www.youtube.com/playlist?list=PLCCGt8Wxb02FJA0KJ6bEmOBkhfNEyMAq2)
