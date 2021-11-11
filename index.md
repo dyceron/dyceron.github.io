@@ -7,3 +7,5 @@ Check out my various links!
 - [Twitter](https://twitter.com/dyceron)
 - [Instagram](https://www.instagram.com/dyceron_)
 - [Patreon](https://www.patreon.com/dyceron)
+
+[Challenges](Challenges)
