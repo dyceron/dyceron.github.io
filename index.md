@@ -8,4 +8,4 @@ Check out my various links!
 - [Instagram](https://www.instagram.com/dyceron_)
 - [Patreon](https://www.patreon.com/dyceron)
 
-[Challenges](Challenges)
+[Challenges](challenges.md)
