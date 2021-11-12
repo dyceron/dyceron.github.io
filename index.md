@@ -11,3 +11,13 @@ Check out my various links!
 [Challenges](challenges.md)
 
 [![(Patreon](/assets/patreon_logo_icon_147253.png)](https://www.patreon.com/dyceron)
+
+<details>
+<summary>Heading</summary>
+
++ markdown list 1
+    + nested list 1
+    + nested list 2
++ markdown list 2
+
+</details>
