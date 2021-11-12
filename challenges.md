@@ -7,6 +7,7 @@ Here is a list of all the challenge runs that I have completed or are in progres
 
 ### Metroid Dread
 - **0% Hard**: November 8, 2021 (Video coming soon)
+- **Max% Minimal Majors (96%)**: November 11, 2021 (Video coming soon)
 
 ### Metroid Fusion
 - **1%**: 2013
@@ -42,7 +43,7 @@ Here is a list of all the challenge runs that I have completed or are in progres
 
 ### Metroid Prime Trilogy
 - **Echoes 20%**: [September 28, 2015](https://www.youtube.com/playlist?list=PLCCGt8Wxb02FogRVMNwngOy5vF5rUpvtU)
-- **Corruption 25%**: [September 28, 2015](https://www.youtube.com/playlist?list=PLCCGt8Wxb02FogRVMNwngOy5vF5rUpvtU)
+- **Corruption 25%**: [September 28, 2015](https://youtu.be/iLtJPwtZsp8)
 - **Echoes 19%**: [October 3, 2015](https://www.youtube.com/playlist?list=PLCCGt8Wxb02HJOCr0Z4ndVUwZULktbAQz)
 - **Prime 22%**: [November 9, 2015](https://www.youtube.com/playlist?list=PLCCGt8Wxb02GcXfS4L3xGdqAHJkljA4Ec)
 - **Corruption 21%**: [March 7, 2017](https://www.youtube.com/watch?v=3q_Qw1dE8dY)
