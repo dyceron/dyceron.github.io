@@ -9,3 +9,5 @@ Check out my various links!
 - [Patreon](https://www.patreon.com/dyceron)
 
 [Challenges](challenges.md)
+
+[![(Patreon](/assets/patreon_logo_icon_147253.png)](https://www.patreon.com/dyceron)
