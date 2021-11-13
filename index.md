@@ -10,4 +10,4 @@ Check out my various links!
 
 [Challenges](challenges.md)
 
-[![(Patreon](/assets/patreon_logo_icon_147253.png)](https://www.patreon.com/dyceron)
+[![Twitch](/assets/images/Twitch.png)](https://twitch.tv/dyceron) [![Twitter](/assets/images/Twitter.png)](https://twitter.com/dyceron) [![YouTube](/assets/images/YouTube.png)](https://youtube.com/dyceron)
