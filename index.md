@@ -13,7 +13,7 @@ Hello all! I am Dyceron. I am a speedrunner and streamer on Twitch.tv. I am prim
     <!-- Create a Twitch.Embed object that will render within the "twitch-embed" element -->
     <script type="text/javascript">
       new Twitch.Embed("twitch-embed", {
-        width: 854,
+        width: 100%,
         height: 480,
         channel: "dyceron",
         // Only needed if this page is going to be embedded on other websites
