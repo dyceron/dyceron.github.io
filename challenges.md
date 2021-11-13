@@ -3,10 +3,11 @@
 Here is a list of all the challenge runs that I have completed or are in progress. They are listed alphabetically by game in order of completion from earliest to latest. The dates listed are the dates the challenges were completed.
 
 ### Another Metroid 2 Remake
-- **6% Normal**: [January 23, 2017](https://www.youtube.com/playlist?list=PLCCGt8Wxb02FJA0KJ6bEmOBkhfNEyMAq2)
+- **Low% All Upgrades**: [January 22, 2017](https://www.youtube.com/watch?v=GwNWoHh9D5U)
+- **6%**: [January 23, 2017](https://www.youtube.com/playlist?list=PLCCGt8Wxb02FJA0KJ6bEmOBkhfNEyMAq2)
 
 ### Metroid Dread
-- **0% Hard**: November 8, 2021 (Video coming soon)
+- **0% Hard**: [November 8, 2021](https://www.twitch.tv/videos/1204670452)
 - **Max% Minimal Majors (96%)**: November 11, 2021 (Video coming soon)
 
 ### Metroid Fusion
@@ -44,7 +45,7 @@ Here is a list of all the challenge runs that I have completed or are in progres
 ### Metroid Prime Trilogy
 - **Echoes 20%**: [September 28, 2015](https://www.youtube.com/playlist?list=PLCCGt8Wxb02FogRVMNwngOy5vF5rUpvtU)
 - **Corruption 25%**: [September 28, 2015](https://youtu.be/iLtJPwtZsp8)
-- **Echoes 19%**: [October 3, 2015](https://www.youtube.com/playlist?list=PLCCGt8Wxb02HJOCr0Z4ndVUwZULktbAQz)
+- **Echoes 19%**: [October 3, 2015](https://www.youtube.com/playlist?list=PLCCGt8Wxb02GandrI0KXe0hFjcV4-Of-a)
 - **Prime 22%**: [November 9, 2015](https://www.youtube.com/playlist?list=PLCCGt8Wxb02GcXfS4L3xGdqAHJkljA4Ec)
 - **Corruption 21%**: [March 7, 2017](https://www.youtube.com/watch?v=3q_Qw1dE8dY)
 - **Echoes 8%**: *[Work in Progress](https://www.youtube.com/playlist?list=PLCCGt8Wxb02H8cyyG_w-fowNEWt8c0r0R)*
@@ -53,7 +54,7 @@ Here is a list of all the challenge runs that I have completed or are in progres
 - **0% No OoB**: [May 3, 2021](https://twitter.com/Dyceron/status/1389391398722473984)
 
 ### Metroid: Zero Mission
-- **9% Normal**: [June 15, 2021](https://twitter.com/Dyceron/status/1404986098175156224)
+- **9%**: [June 15, 2021](https://twitter.com/Dyceron/status/1404986098175156224)
 
 ### Super Metroid
 - **14% Ice Beam**: [December 8, 2015](https://www.youtube.com/watch?v=HDmNMzSVvx8)
