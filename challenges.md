@@ -9,6 +9,7 @@ Here is a list of all the challenge runs that I have completed or are in progres
 ### Metroid Dread
 - **0% Hard**: [November 8, 2021](https://www.twitch.tv/videos/1204670452)
 - **Max% Minimal Majors (96%)**: November 11, 2021 (Video coming soon)
+- **Minimal Items (Cross Bomb)**: [November 16, 2021](https://www.youtube.com/watch?v=o6QBmZTbDLI)
 
 ### Metroid Fusion
 - **1%**: 2013
