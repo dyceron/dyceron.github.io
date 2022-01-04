@@ -1,4 +1,6 @@
-Hello all! I am Dyceron. I am a speedrunner and streamer on Twitch.tv. I primarily speedrun Metroid games, but I also speedrun other games from time to time. Check out my various links to see my content!
+Hello all! I am Dyceron. I am a speedrunner and streamer on Twitch.tv. I primarily speedrun Metroid games, but I also speedrun other games from time to time.
+
+Check out my various links to see my content!
 
 -----
 
