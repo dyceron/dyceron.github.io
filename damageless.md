@@ -6,7 +6,6 @@ Video: https://www.youtube.com/watch?v=DlUK5RqbmiI
 <p>
 
 | Hits  | Video | Date |
-  ,
 | :---: | --- | :---: |
 | 21 | https://www.youtube.com/watch?v=DXDZWwxeqoI | 11/13/2021 |
 | 20 | N/A | N/A |
