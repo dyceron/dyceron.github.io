@@ -1,3 +1,7 @@
+# Damageless/No Hit Challenges
+
+Here is a list of games I have attempted to beat without taking unnecessary damage/hits. 
+
 | Game | Category | Status | Video |
 | --- | --- | --- | --- |
 | Metroid Dread | All Bosses | Complete | https://www.youtube.com/watch?v=DlUK5RqbmiI |
@@ -27,6 +31,8 @@ Video: https://www.youtube.com/watch?v=DlUK5RqbmiI
 
 </p>
 </details>
+
+---
 
 ## Metroid Prime
 Current PB: 30 Hits  
