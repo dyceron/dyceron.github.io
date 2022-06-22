@@ -1,11 +1,12 @@
-### Metroid Dread
-#### DONE!
+## Metroid Dread
+### DONE!
 Video: https://www.youtube.com/watch?v=DlUK5RqbmiI
 
 <details><summary>PB History</summary>
 <p>
 
 | Hits  | Video | Date |
+  ,
 | :---: | --- | :---: |
 | 21 | https://www.youtube.com/watch?v=DXDZWwxeqoI | 11/13/2021 |
 | 20 | N/A | N/A |
