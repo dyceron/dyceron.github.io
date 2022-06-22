@@ -1,3 +1,12 @@
+| Game | Category | Status | Video |
+| --- | --- | --- | --- |
+| Metroid Dread | All Bosses | Complete | https://www.youtube.com/watch?v=DlUK5RqbmiI |
+| Metroid Prime | Any% | 30 | https://www.youtube.com/watch?v=DXDZWwxeqoI |
+
+
+
+
+
 ## Metroid Dread
 ### DONE!
 Video: https://www.youtube.com/watch?v=DlUK5RqbmiI
