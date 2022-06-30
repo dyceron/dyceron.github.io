@@ -3,7 +3,8 @@
 Here is a list of games I have attempted to beat without taking unnecessary damage/hits. 
 
 | Game | Category | Status | Video |
-| --- | --- | --- | --- |
+| --- | :---: | :---: | --- |
+| A Hat in Time | Any% | 3 | https://twitter.com/Dyceron/status/1539777729545097218 |
 | Metroid Dread | All Bosses | Complete | https://www.youtube.com/watch?v=DlUK5RqbmiI |
 | Metroid Prime | Any% | 30 | https://www.youtube.com/watch?v=DXDZWwxeqoI |
 
