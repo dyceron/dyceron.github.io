@@ -2,21 +2,33 @@
 
 Here is a list of games I have attempted to beat without taking unnecessary damage/hits. 
 
-| Game | Category | PB | Video |
+| Game | Category | PB | Video | 
 | --- | --- | --- | --- |
-| A Hat in Time | Any% | 3 | https://twitter.com/Dyceron/status/1539777729545097218 |
-| Metroid Dread | All Bosses | Complete | https://www.youtube.com/watch?v=DlUK5RqbmiI |
-| Metroid Prime | Any% | 30 | https://www.youtube.com/watch?v=DXDZWwxeqoI |
+| A Hat in Time | Any% | 3 Hits | https://twitter.com/Dyceron/status/1539777729545097218 |
+| Metroid Dread | All Bosses | **Complete** | https://www.youtube.com/watch?v=DlUK5RqbmiI |
+| Metroid Prime | Any% | 30 Hits | https://www.youtube.com/watch?v=DXDZWwxeqoI |
 
+## Rules
 
+- [A Hat in Time](https://pastebin.com/GLnPfYbr)
+- [Metroid Series](http://bombch.us/DRr8)
 
+## PB Histories
 
+<details><summary>A Hat in Time</summary>
+<p>
 
-## Metroid Dread
-### DONE!
-Video: https://www.youtube.com/watch?v=DlUK5RqbmiI
+| Hits  | Video | Date |
+| :---: | --- | :---: |
+| 38 | https://twitter.com/Dyceron/status/1537637632422854657 | 6/16/2022 |
+| 35 | https://twitter.com/Dyceron/status/1538971364899659776 | 6/20/2022 |
+| 12 | https://twitter.com/Dyceron/status/1539003870722117632 | 6/20/2022 |
+| 3 | https://twitter.com/Dyceron/status/1539777729545097218 | 6/22/2022 |
 
-<details><summary>PB History</summary>
+</p>
+</details>
+
+<details><summary>Metroid Dread</summary>
 <p>
 
 | Hits  | Video | Date |
@@ -33,13 +45,7 @@ Video: https://www.youtube.com/watch?v=DlUK5RqbmiI
 </p>
 </details>
 
----
-
-## Metroid Prime
-Current PB: 30 Hits  
-Video: https://www.youtube.com/watch?v=ERUsbRSy_zU
-
-<details><summary>PB History</summary>
+<details><summary>Metroid Prime</summary>
 <p>
 
 | Hits  | Video | Date |
