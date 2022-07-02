@@ -10,7 +10,7 @@ Here is a list of all the challenge runs that I have completed or are in progres
 - **0% Hard**: [November 8, 2021](https://www.twitch.tv/videos/1204670452)
 - **Max% Minimal Majors (96%)**: [November 11, 2021](https://www.youtube.com/watch?v=xurkqSIpEOw)
 - **Minimal Items (Legacy, Cross Bomb)**: [November 16, 2021](https://www.youtube.com/watch?v=o6QBmZTbDLI)
-- **Damageless**: [February 13, 2022](https://www.youtube.com/watch?v=DlUK5RqbmiI)
+- **All Bosses Damageless**: [February 13, 2022](https://www.youtube.com/watch?v=DlUK5RqbmiI)
 
 ### Metroid Fusion
 - **1%**: 2013
