@@ -2,14 +2,14 @@
 
 Here is a list of games I have attempted to beat without taking unnecessary damage/hits. 
 
-| Game | Category | Hits | Video | Date |
-| --- | --- | :---: | --- | --- |
-| A Hat in Time | Any% | 3 | https://twitter.com/Dyceron/status/1539777729545097218 | 6/22/2022 |
-| Metroid Fusion | Any% | 46 | https://www.twitch.tv/videos/1504171132 | 6/4/2022 |
-| Metroid Dread | All Bosses | 0 | https://www.youtube.com/watch?v=DlUK5RqbmiI | 2/13/2022 |
-| Metroid Prime | Any% | 30 | https://www.youtube.com/watch?v=DXDZWwxeqoI | 1/10/2022 |
-| Metroid Prime 2: Echoes | Any% | 47 | https://www.youtube.com/watch?v=fldXQqEXrYs | 1/26/2022 |
-| Metroid Prime 3: Corruption | Any% | 139 | https://www.youtube.com/watch?v=M9rFJPeMXhU | 1/15/2022 |
+| Complete? | Game | Category | Hits | Video | Date |
+| --- | --- | --- | :---: | --- | --- |
+|  | A Hat in Time | Any% | 3 | https://twitter.com/Dyceron/status/1539777729545097218 | 6/22/2022 |
+|  | Metroid Fusion | Any% | 46 | https://www.twitch.tv/videos/1504171132 | 6/4/2022 |
+| - [x] | Metroid Dread | All Bosses | 0 | https://www.youtube.com/watch?v=DlUK5RqbmiI | 2/13/2022 |
+|  | Metroid Prime | Any% | 30 | https://www.youtube.com/watch?v=DXDZWwxeqoI | 1/10/2022 |
+|  | Metroid Prime 2: Echoes | Any% | 47 | https://www.youtube.com/watch?v=fldXQqEXrYs | 1/26/2022 |
+|  | Metroid Prime 3: Corruption | Any% | 139 | https://www.youtube.com/watch?v=M9rFJPeMXhU | 1/15/2022 |
 
 ## Rules
 
