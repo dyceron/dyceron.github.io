@@ -2,18 +2,21 @@
 
 Here is a list of games I have attempted to beat without taking unnecessary damage/hits. 
 
-| Game | Category | PB | Video | 
-| --- | --- | --- | --- |
-| A Hat in Time | Any% | 3 Hits | https://twitter.com/Dyceron/status/1539777729545097218 |
-| Metroid Dread | All Bosses | **Complete** | https://www.youtube.com/watch?v=DlUK5RqbmiI |
-| Metroid Prime | Any% | 30 Hits | https://www.youtube.com/watch?v=DXDZWwxeqoI |
+| Game | Category | Hits | Video | Date |
+| --- | --- | :---: | --- | --- |
+| A Hat in Time | Any% | 3 | https://twitter.com/Dyceron/status/1539777729545097218 | 6/22/2022 |
+| Metroid Fusion | Any% | 46 | https://www.twitch.tv/videos/1504171132 | 6/4/2022 |
+| Metroid Dread | All Bosses | 0 | https://www.youtube.com/watch?v=DlUK5RqbmiI | 2/13/2022 |
+| Metroid Prime | Any% | 30 | https://www.youtube.com/watch?v=DXDZWwxeqoI | 1/10/2022 |
+| Metroid Prime 2: Echoes | Any% | 47 | https://www.youtube.com/watch?v=fldXQqEXrYs | 1/26/2022 |
+| Metroid Prime 3: Corruption | Any% | 139 | https://www.youtube.com/watch?v=M9rFJPeMXhU | 1/15/2022 |
 
 ## Rules
 
 - [A Hat in Time](https://pastebin.com/GLnPfYbr)
 - [Metroid Series](http://bombch.us/DRr8)
 
-## PB Histories
+## PB History
 
 <details><summary>A Hat in Time</summary>
 <p>
@@ -24,6 +27,17 @@ Here is a list of games I have attempted to beat without taking unnecessary dama
 | 35 | https://twitter.com/Dyceron/status/1538971364899659776 | 6/20/2022 |
 | 12 | https://twitter.com/Dyceron/status/1539003870722117632 | 6/20/2022 |
 | 3 | https://twitter.com/Dyceron/status/1539777729545097218 | 6/22/2022 |
+
+</p>
+</details>
+
+<details><summary>Metroid Fusion</summary>
+<p>
+
+| Hits  | Video | Date |
+| :---: | --- | :---: |
+| 49 | https://www.twitch.tv/videos/1313188107 | 5/26/2022 |
+| 46 | https://www.twitch.tv/videos/1504171132 | 6/4/2022 |
 
 </p>
 </details>
@@ -53,6 +67,27 @@ Here is a list of games I have attempted to beat without taking unnecessary dama
 | 87 | https://www.youtube.com/watch?v=q2kyNSA0Zck | 1/2/2022 |
 | 38 | https://www.youtube.com/watch?v=bmLJyBLfY5k | 1/5/2022 |
 | 30 | https://www.youtube.com/watch?v=ERUsbRSy_zU | 1/10/2022 |
+
+</p>
+</details>
+
+<details><summary>Metroid Prime 2: Echoes</summary>
+<p>
+
+| Hits  | Video | Date |
+| :---: | --- | :---: |
+| 64 | https://www.youtube.com/watch?v=MeiBb08N1uE | 1/6/2022 |
+| 47 | https://www.youtube.com/watch?v=fldXQqEXrYs | 1/26/2022 |
+
+</p>
+</details>
+
+<details><summary>Metroid Prime 3: Corruption</summary>
+<p>
+
+| Hits  | Video | Date |
+| :---: | --- | :---: |
+| 139 | https://www.youtube.com/watch?v=M9rFJPeMXhU | 1/15/2022 |
 
 </p>
 </details>
