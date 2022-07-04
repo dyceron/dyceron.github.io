@@ -4,7 +4,7 @@ Here is a list of games I have attempted to beat without taking unnecessary dama
 
 | Game | Category | Hits | Video | Date |
 | --- | --- | :---: | --- | --- |
-| A Hat in Time | Any% | 2 | https://twitter.com/Dyceron/status/1543389588974084096 | 7/2/2022 |
+| A Hat in Time | Any% | 2 | https://www.youtube.com/watch?v=b7qXwVV6YXI | 7/2/2022 |
 | Metroid Fusion | Any% | 46 | https://www.twitch.tv/videos/1504171132 | 6/4/2022 |
 | Metroid Dread | All Bosses | **0** | https://www.youtube.com/watch?v=DlUK5RqbmiI | 2/13/2022 |
 | Metroid Prime | Any% | 30 | https://www.youtube.com/watch?v=DXDZWwxeqoI | 1/10/2022 |
@@ -23,11 +23,11 @@ Here is a list of games I have attempted to beat without taking unnecessary dama
 
 | Hits  | Video | Date |
 | :---: | --- | :---: |
-| 38 | https://twitter.com/Dyceron/status/1537637632422854657 | 6/16/2022 |
-| 35 | https://twitter.com/Dyceron/status/1538971364899659776 | 6/20/2022 |
-| 12 | https://twitter.com/Dyceron/status/1539003870722117632 | 6/20/2022 |
-| 3 | https://twitter.com/Dyceron/status/1539777729545097218 | 6/22/2022 |
-| 2 | https://twitter.com/Dyceron/status/1543389588974084096 | 7/2/2022 |
+| 38 | https://www.youtube.com/watch?v=yrgTSKdkmqU | 6/16/2022 |
+| 35 | https://www.youtube.com/watch?v=o1ryVaEniTI | 6/20/2022 |
+| 12 | https://www.youtube.com/watch?v=5OBtNdJj4iI | 6/20/2022 |
+| 3 | https://www.youtube.com/watch?v=dLOCInAB0Hs | 6/22/2022 |
+| 2 | https://www.youtube.com/watch?v=b7qXwVV6YXI | 7/2/2022 |
 
 </p>
 </details>
