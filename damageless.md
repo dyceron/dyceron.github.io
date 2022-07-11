@@ -4,7 +4,7 @@ Here is a list of games I have attempted to beat without taking unnecessary dama
 
 | Game | Category | Hits | Video | Date |
 | --- | --- | :---: | --- | --- |
-| A Hat in Time | Any% | 1 | https://www.youtube.com/watch?v=4vF9fppXa5E | 7/5/2022 |
+| A Hat in Time | Any% | **0** | https://www.youtube.com/watch?=HbOj0Fh_xCk | 7/10/2022 |
 | Metroid Fusion | Any% | 46 | https://www.twitch.tv/videos/1504171132 | 6/4/2022 |
 | Metroid Dread | All Bosses | **0** | https://www.youtube.com/watch?v=DlUK5RqbmiI | 2/13/2022 |
 | Metroid Prime | Any% | 30 | https://www.youtube.com/watch?v=DXDZWwxeqoI | 1/10/2022 |
@@ -29,6 +29,7 @@ Here is a list of games I have attempted to beat without taking unnecessary dama
 | 3 | https://www.youtube.com/watch?v=dLOCInAB0Hs | 6/22/2022 |
 | 2 | https://www.youtube.com/watch?v=b7qXwVV6YXI | 7/2/2022 |
 | 1 | https://www.youtube.com/watch?v=4vF9fppXa5E | 7/5/2022 |
+| **0** | https://www.youtube.com/watch?=HbOj0Fh_xCk | 7/10/2022 |
 
 </p>
 </details>
@@ -56,7 +57,7 @@ Here is a list of games I have attempted to beat without taking unnecessary dama
 | 4 | https://www.youtube.com/watch?v=BFsXlFMuvHA | 12/27/2021 |
 | 2 | https://www.youtube.com/watch?v=ZqG2E1ROvLQ | 12/28/2021 |
 | 1 | https://www.youtube.com/watch?v=bhsdTDZU9sY | 12/30/2021 |
-| 0 | https://www.youtube.com/watch?v=DlUK5RqbmiI | 2/13/2022 |
+| **0** | https://www.youtube.com/watch?v=DlUK5RqbmiI | 2/13/2022 |
 
 </p>
 </details>
