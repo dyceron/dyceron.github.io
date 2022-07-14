@@ -8,8 +8,8 @@ Here is a list of all the challenge runs that I have completed or are in progres
 
 ### Metroid Dread
 - **0% Hard**: [November 8, 2021](https://www.twitch.tv/videos/1204670452)
-- **Max% Minimal Majors (96%)**: [November 11, 2021](https://www.youtube.com/watch?v=xurkqSIpEOw)
-- **Minimal Items (Legacy, Cross Bomb)**: [November 16, 2021](https://www.youtube.com/watch?v=o6QBmZTbDLI)
+- **Max% Minimum Majors (96%)**: [November 11, 2021](https://www.youtube.com/watch?v=xurkqSIpEOw)
+- **Minimum Items (Legacy, Cross Bomb)**: [November 16, 2021](https://www.youtube.com/watch?v=o6QBmZTbDLI)
 - **All Bosses Damageless**: [February 13, 2022](https://www.youtube.com/watch?v=DlUK5RqbmiI)
 
 ### Metroid Fusion
@@ -54,7 +54,8 @@ Here is a list of all the challenge runs that I have completed or are in progres
 
 ### Metroid: Samus Returns
 - **0% No OoB**: [May 3, 2021](https://twitter.com/Dyceron/status/1389391398722473984)
-- **Minimal Items**: *[Work in Progress](https://www.youtube.com/playlist?list=PLCCGt8Wxb02FrP_Kfr_d7YYzFa-FQDlXU)*
+- **Max% Minimum Majors (96%)**: [July 14, 2022](https://www.youtube.com/playlist?list=PLCCGt8Wxb02GPVSYFr7Ce5PslOf7BhJoM)
+- **Minimum Items**: *[Work in Progress](https://www.youtube.com/playlist?list=PLCCGt8Wxb02FrP_Kfr_d7YYzFa-FQDlXU)*
 
 ### Metroid: Zero Mission
 - **9%**: [June 15, 2021](https://twitter.com/Dyceron/status/1404986098175156224)
