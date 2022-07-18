@@ -5,6 +5,9 @@
   "minima/skins/{{ site.minima.skin | default: 'solarized' }}",
   "minima/initialize";
 
+minima:
+  skin: solarized
+
 body {
   font-family: "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
