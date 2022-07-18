@@ -2,7 +2,7 @@
 ---
 
 @import
-  "minima/skins/{{ site.minima.skin | default: 'dark' }}",
+  "minima/skins/{{ site.minima.skin | default: 'solarized' }}",
   "minima/initialize";
 
 body {
