@@ -1,20 +1,25 @@
 # Damageless/No Hit Challenges
 
-Here is a list of games I have attempted to beat without taking unnecessary damage/hits. 
-
-| Game | Category | Hits | Video | Date |
-| --- | --- | :---: | --- | --- |
-| A Hat in Time | Any% | **0** | https://www.youtube.com/watch?v=HbOj0Fh_xCk | 7/10/2022 |
-| Metroid Fusion | Any% | 46 | https://www.twitch.tv/videos/1504171132 | 6/4/2022 |
-| Metroid Dread | All Bosses | **0** | https://www.youtube.com/watch?v=DlUK5RqbmiI | 2/13/2022 |
-| Metroid Prime | Any% | 30 | https://www.youtube.com/watch?v=DXDZWwxeqoI | 1/10/2022 |
-| Metroid Prime 2: Echoes | Any% | 47 | https://www.youtube.com/watch?v=fldXQqEXrYs | 1/26/2022 |
-| Metroid Prime 3: Corruption | Any% | 139 | https://www.youtube.com/watch?v=M9rFJPeMXhU | 1/15/2022 |
-
 ## Rules
 
 - [A Hat in Time](https://pastebin.com/GLnPfYbr)
 - [Metroid Series](http://bombch.us/DRr8)
+
+## Completed Games
+
+| Game | Category | Video | Date |
+| --- | --- | --- | --- |
+| A Hat in Time | Any% | https://www.youtube.com/watch?v=HbOj0Fh_xCk | 7/10/2022 |
+| Metroid Dread | All Bosses | https://www.youtube.com/watch?v=DlUK5RqbmiI | 2/13/2022 |
+
+## In Progress
+
+| Game | Category | Hits | Video | Date |
+| --- | --- | :---: | --- | --- |
+| Metroid Fusion | Any% | 46 | https://www.twitch.tv/videos/1504171132 | 6/4/2022 |
+| Metroid Prime | Any% | 30 | https://www.youtube.com/watch?v=DXDZWwxeqoI | 1/10/2022 |
+| Metroid Prime 2: Echoes | Any% | 47 | https://www.youtube.com/watch?v=fldXQqEXrYs | 1/26/2022 |
+| Metroid Prime 3: Corruption | Any% | 139 | https://www.youtube.com/watch?v=M9rFJPeMXhU | 1/15/2022 |
 
 ## PB History
 
