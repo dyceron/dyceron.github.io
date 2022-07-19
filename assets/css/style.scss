@@ -1,9 +1,7 @@
 ---
 ---
 
-@import
-  "minima/skins/{{ site.minima.skin | default: 'solarized' }}",
-  "minima/initialize";
+@import "{{ site.theme }}";
 
 body {
   font-family: "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
