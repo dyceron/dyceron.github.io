@@ -29,15 +29,13 @@
 
 ### Any%
 
-| Hits | Video | Date |
-| :---: | --- | :---: |
-| 0 | https://www.youtube.com/watch?v=HbOj0Fh_xCk | 7/10/2022 |
-| 1 | https://www.youtube.com/watch?v=4vF9fppXa5E | 7/5/2022 |
-| 2 | https://www.youtube.com/watch?v=b7qXwVV6YXI | 7/2/2022 |
-| 3 | https://www.youtube.com/watch?v=dLOCInAB0Hs | 6/22/2022 |
-| 12 | https://www.youtube.com/watch?v=5OBtNdJj4iI | 6/20/2022 |
-| 35 | https://www.youtube.com/watch?v=o1ryVaEniTI | 6/20/2022 |
-| 38 | https://www.youtube.com/watch?v=yrgTSKdkmqU | 6/16/2022 |
+- 0: [7/10/2022](https://www.youtube.com/watch?v=HbOj0Fh_xCk)
+- 1: [7/5/2022](https://www.youtube.com/watch?v=4vF9fppXa5E)
+- 2: [7/2/2022](https://www.youtube.com/watch?v=b7qXwVV6YXI)
+- 3: [6/22/2022](https://www.youtube.com/watch?v=dLOCInAB0Hs)
+- 12: [6/20/2022](https://www.youtube.com/watch?v=5OBtNdJj4iI)
+- 35: [6/20/2022 ](https://www.youtube.com/watch?v=o1ryVaEniTI)
+- 38: [6/16/2022](https://www.youtube.com/watch?v=yrgTSKdkmqU)
   
 ### All Time Pieces
 
