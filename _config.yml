@@ -3,3 +3,5 @@ title: Welcome to the DCRZone™!
 description: Website for Dyceron
 show_downloads: false
 markdown: GFM
+github:
+  is_project_page: false
