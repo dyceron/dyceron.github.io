@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+header h1:before {
+  content: "";
+}
+
 body {
   font-family: "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
