@@ -12,7 +12,7 @@
 | A Hat in Time | Any% | https://www.youtube.com/watch?v=HbOj0Fh_xCk | 7/10/2022 |
 | Metroid Dread | All Bosses | https://www.youtube.com/watch?v=DlUK5RqbmiI | 2/13/2022 |
 
-## Other PBs
+## Other Runs
 
 | Game | Category | Hits | Video | Date |
 | --- | --- | :---: | --- | --- |
