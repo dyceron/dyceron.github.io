@@ -2,7 +2,7 @@
 
 Here is a list of all the challenge runs that I have completed or are in progress. They are listed alphabetically by game in order of completion from earliest to latest. The dates listed are the dates the challenges were completed.
 
-### For Damageless/No Hit Challenges, [click here](https://dyceron.github.io/damageless)!
+For Damageless/No Hit Challenges, [**click here**](https://dyceron.github.io/damageless)!
 
 -----
 
