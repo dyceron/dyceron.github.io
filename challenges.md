@@ -61,7 +61,7 @@ To see rules and PBs for games I have attempted to beat Damageless/No Hit, [**cl
 
 ### Metroid: Samus Returns
 - **0% No OoB**: [May 3, 2021](https://twitter.com/Dyceron/status/1389391398722473984)
-- **Max% Minimum Majors (96.7%)**: [July 13, 2022](https://www.youtube.com/playlist?list=PLCCGt8Wxb02GPVSYFr7Ce5PslOf7BhJoM)
+- **Max% Minimum Majors (96.7%)**: [July 30, 2022](https://www.youtube.com/playlist?list=PLCCGt8Wxb02GPVSYFr7Ce5PslOf7BhJoM)
 - **Minimum Items**: [July 14, 2022](https://www.youtube.com/playlist?list=PLCCGt8Wxb02FrP_Kfr_d7YYzFa-FQDlXU)
 
 ### Metroid: Zero Mission
