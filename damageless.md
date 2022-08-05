@@ -12,11 +12,11 @@
 | A Hat in Time | Any% | https://www.youtube.com/watch?v=HbOj0Fh_xCk | 7/10/2022 |
 | Metroid Dread | All Bosses | https://www.youtube.com/watch?v=DlUK5RqbmiI | 2/13/2022 |
 
-## Other Runs
+## In Progress
 
 | Game | Category | Hits | Video | Date |
 | --- | --- | :---: | --- | --- |
-| A Hat in Time | All Time Pieces | 28 | https://www.youtube.com/watch?v=zEAFuBb2tb0 | 7/22/2022 |
+| A Hat in Time | All Time Pieces | 8 | https://www.youtube.com/watch?v=1qgO24pOO70 | 8/4/2022 |
 | Metroid Fusion | Any% | 46 | https://www.twitch.tv/videos/1504171132 | 6/4/2022 |
 | Metroid Prime | Any% | 30 | https://www.youtube.com/watch?v=DXDZWwxeqoI | 1/10/2022 |
 | Metroid Prime 2: Echoes | Any% | 47 | https://www.youtube.com/watch?v=fldXQqEXrYs | 1/26/2022 |
@@ -43,7 +43,9 @@
 
 | Hits | Video | Date |
 | :---: | --- | :---: |
-| 28 | https://www.youtube.com/watch?v=zEAFuBb2tb0 | 7/22/2022
+| 8 | https://www.youtube.com/watch?v=1qgO24pOO70 | 8/4/2022 |
+| 25 | https://www.youtube.com/watch?v=dllnt81TawA | 8/3/2022 |
+| 28 | https://www.youtube.com/watch?v=zEAFuBb2tb0 | 7/22/2022 |
 | 42 | https://www.youtube.com/watch?v=imhWxvfKAnw | 7/19/2022 |
 | 73 | https://www.youtube.com/watch?v=oW2WnzVhafI | 7/18/2022 |
 | 77 | https://www.youtube.com/watch?v=kHdIFxoy5_s | 7/15/2022 |
