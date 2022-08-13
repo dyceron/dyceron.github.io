@@ -2,8 +2,6 @@
 
 Here is a list of all the challenge runs that I have completed or are in progress. They are listed alphabetically by game in order of completion from earliest to latest. The dates listed are the dates the challenges were completed.
 
------
-
 ### A Hat in Time
 - **Damageless**: [July 10, 2022](https://www.youtube.com/watch?v=HbOj0Fh_xCk)
 
