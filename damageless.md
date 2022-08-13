@@ -2,7 +2,7 @@
 
 ## Rules
 
-- [A Hat in Time](https://pastebin.com/GLnPfYbr)
+- [A Hat in Time](https://docs.google.com/document/d/1mJKrqnCC5cQtCqUvBbwl0t-mao71gYI3E4IudF2C-vQ/edit?usp=sharing)
 - [Metroid Series](http://bombch.us/DRr8)
 
 ## Completed Games
