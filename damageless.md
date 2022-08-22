@@ -16,7 +16,7 @@
 
 | Game | Category | Hits | Video | Date |
 | --- | --- | :---: | --- | --- |
-| A Hat in Time | All Time Pieces | 8 | https://www.youtube.com/watch?v=1qgO24pOO70 | 8/4/2022 |
+| A Hat in Time | All Time Pieces | 6 | https://www.youtube.com/watch?v=OVQ3xVeFjps | 8/21/2022 |
 | Metroid Fusion | Any% | 46 | https://www.twitch.tv/videos/1504171132 | 6/4/2022 |
 | Metroid Prime | Any% | 30 | https://www.youtube.com/watch?v=ERUsbRSy_zU | 1/10/2022 |
 | Metroid Prime 2: Echoes | Any% | 47 | https://www.youtube.com/watch?v=fldXQqEXrYs | 1/26/2022 |
@@ -43,6 +43,7 @@
 
 | Hits | Video | Date |
 | :---: | --- | :---: |
+| 6 | https://www.youtube.com/watch?v=OVQ3xVeFjps | 8/21/2022 |
 | 8 | https://www.youtube.com/watch?v=1qgO24pOO70 | 8/4/2022 |
 | 25 | https://www.youtube.com/watch?v=dllnt81TawA | 8/3/2022 |
 | 28 | https://www.youtube.com/watch?v=zEAFuBb2tb0 | 7/22/2022 |
