@@ -57,8 +57,8 @@ Here is a list of all the challenge runs that I have completed or are in progres
 
 ### Metroid: Samus Returns
 - **0% No OoB**: [May 3, 2021](https://twitter.com/Dyceron/status/1389391398722473984)
-- **Max% Minimum Majors (96.7%)**: [July 30, 2022](https://www.youtube.com/playlist?list=PLCCGt8Wxb02GPVSYFr7Ce5PslOf7BhJoM)
-- **Minimum Items**: [July 14, 2022](https://www.youtube.com/playlist?list=PLCCGt8Wxb02FrP_Kfr_d7YYzFa-FQDlXU)
+- **Max% Minimum Majors (98%)**: [July 30, 2022](https://www.youtube.com/playlist?list=PLCCGt8Wxb02GPVSYFr7Ce5PslOf7BhJoM)
+- **Minimum Items (Spazer, Supers)**: [July 14, 2022](https://www.youtube.com/playlist?list=PLCCGt8Wxb02FrP_Kfr_d7YYzFa-FQDlXU)
 
 ### Metroid: Zero Mission
 - **9%**: [June 15, 2021](https://twitter.com/Dyceron/status/1404986098175156224)
