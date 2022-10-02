@@ -21,6 +21,7 @@
 | Metroid Prime | Any% | 30 | https://www.youtube.com/watch?v=ERUsbRSy_zU | 1/10/2022 |
 | Metroid Prime 2: Echoes | Any% | 47 | https://www.youtube.com/watch?v=fldXQqEXrYs | 1/26/2022 |
 | Metroid Prime 3: Corruption | Any% | 139 | https://www.youtube.com/watch?v=M9rFJPeMXhU | 1/15/2022 |
+| Metroid: Samus Returns | Any% | 82 |  | 10/1/2022 |
 
 ## PB History
 
