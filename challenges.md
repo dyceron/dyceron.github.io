@@ -15,7 +15,9 @@ Here is a list of all the challenge runs that I have completed or are in progres
 - **Minimum Items (Legacy, 18 Items)**: [November 16, 2021](https://www.youtube.com/watch?v=o6QBmZTbDLI)
 - **All Bosses Damageless**: [February 13, 2022](https://www.youtube.com/watch?v=DlUK5RqbmiI)
 - **Minimum Items (Legacy, 12 Items)**: [September 20, 2022](https://www.youtube.com/watch?v=qknXeXcoHdM)
-- **Max% Minimum Majors (Legacy, 12 Majors, 92%)**: [September 21, 2022]()
+- **Max% Minimum Majors (Legacy, 12 Majors, 92%)**: [September 21, 2022](https://www.youtube.com/watch?v=gC8LSAAvb2U)
+- **Minimum Items (Legacy, 11 Items)**: [October 11, 2022]()
+- **Max% Minimum Majors (Legacy, 11 Majors, 97%)**: [October 11, 2022]()
 
 ### Metroid Fusion
 - **1%**: 2013
@@ -59,10 +61,10 @@ Here is a list of all the challenge runs that I have completed or are in progres
 
 ### Metroid: Samus Returns
 - **0% No OoB**: [May 3, 2021](https://twitter.com/Dyceron/status/1389391398722473984)
-- **Max% Minimum Majors (10 Majors, 98%)**: [July 30, 2022](https://www.youtube.com/playlist?list=PLCCGt8Wxb02GPVSYFr7Ce5PslOf7BhJoM)
+- **Max% Minimum Majors (10 Majors, 98.0%)**: [July 30, 2022](https://www.youtube.com/playlist?list=PLCCGt8Wxb02GPVSYFr7Ce5PslOf7BhJoM)
 - **Minimum Items (10 Items)**: [July 14, 2022](https://www.youtube.com/playlist?list=PLCCGt8Wxb02FrP_Kfr_d7YYzFa-FQDlXU)
 - **Minimum Items (9 Items)**: [September 7, 2022](https://youtu.be/ugeNOet4HKc)
-- **Max% Minimum Majors (9 Majors)**: [September 20, 2022](https://www.youtube.com/watch?v=jxveQyPVcXU)
+- **Max% Minimum Majors (9 Majors, 94.7%)**: [September 20, 2022](https://www.youtube.com/watch?v=jxveQyPVcXU)
 - **Minimum Items (8 Items)**: [September 28, 2022](https://www.youtube.com/watch?v=XenOF4TceeY)
 - **Max% Minimum Majors (8 Majors)**: *[Work in Progress](https://youtube.com/playlist?list=PLCCGt8Wxb02GPmHsa_Qba9A-lZBwSuDE6)*
 
