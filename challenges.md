@@ -17,7 +17,7 @@ Here is a list of all the challenge runs that I have completed or are in progres
 - **Minimum Items (Legacy, 12 Items)**: [September 20, 2022](https://www.youtube.com/watch?v=qknXeXcoHdM)
 - **Max% Minimum Majors (Legacy, 12 Majors, 92%)**: [September 21, 2022](https://www.youtube.com/watch?v=gC8LSAAvb2U)
 - **Minimum Items (Legacy, 11 Items)**: [October 11, 2022]()
-- **Max% Minimum Majors (Legacy, 11 Majors, 97%)**: [October 11, 2022]()
+- **Max% Minimum Majors (Legacy, 11 Majors, 97%)**: [October 12, 2022]()
 
 ### Metroid Fusion
 - **1%**: 2013
