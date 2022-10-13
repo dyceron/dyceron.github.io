@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 Hello all! I am Dyceron. I am a streamer on Twitch.tv, where I do speedruns and challenge playthroughs of various games. In the past, my main focus has been the Metroid series, but I've been branching out and trying other games for more variety.
 
 ### Check out the links below to see my content!
