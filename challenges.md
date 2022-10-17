@@ -66,7 +66,7 @@ Here is a list of all the challenge runs that I have completed or are in progres
 - **Minimum Items (9 Items)**: [September 7, 2022](https://youtu.be/ugeNOet4HKc)
 - **Max% Minimum Majors (9 Majors, 94.7%)**: [September 20, 2022](https://www.youtube.com/watch?v=jxveQyPVcXU)
 - **Minimum Items (8 Items)**: [September 28, 2022](https://www.youtube.com/watch?v=XenOF4TceeY)
-- **Max% Minimum Majors (8 Majors)**: *[Work in Progress](https://youtube.com/playlist?list=PLCCGt8Wxb02GPmHsa_Qba9A-lZBwSuDE6)*
+- **Max% Minimum Majors (8 Majors, 91.3%)**: [October 16, 2022](https://youtube.com/playlist?list=PLCCGt8Wxb02GPmHsa_Qba9A-lZBwSuDE6)
 
 ### Metroid: Zero Mission
 - **9%**: [June 15, 2021](https://twitter.com/Dyceron/status/1404986098175156224)
