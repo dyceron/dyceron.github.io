@@ -5,10 +5,6 @@ Here is a list of all the challenge runs that I have completed or are in progres
 ### A Hat in Time
 - **Damageless**: [July 10, 2022](https://www.youtube.com/watch?v=HbOj0Fh_xCk)
 
-### Another Metroid 2 Remake
-- **Low% All Upgrades**: [January 22, 2017](https://www.youtube.com/watch?v=GwNWoHh9D5U)
-- **6%**: [January 23, 2017](https://www.youtube.com/playlist?list=PLCCGt8Wxb02FJA0KJ6bEmOBkhfNEyMAq2)
-
 ### Metroid Dread
 - **0% Hard**: [November 8, 2021](https://www.twitch.tv/videos/1204670452)
 - **Max% Minimum Majors (Legacy, 18 Majors, 96%)**: [November 11, 2021](https://www.youtube.com/watch?v=xurkqSIpEOw)
